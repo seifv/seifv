@@ -50,22 +50,6 @@ Monitoring setup, alerting, runbooks, and knowledge transfer so teams are prepar
 
 ---
 
-## Popular Repositories
-
-- **[containerized-microservices-pipeline](https://github.com/seifv/containerized-microservices-pipeline)** — Reference solution for production microservices pipeline with Docker, Kubernetes, and full CI/CD.
-
-- **[private-aks-cluster-terraform-devops](https://github.com/seifv/private-aks-cluster-terraform-devops)** — Creating a private AKS cluster using Terraform and Azure DevOps.
-
-- **[terraform-azurerm-aks](https://github.com/seifv/terraform-azurerm-aks)** — Terraform module for deploying an AKS cluster.
-
-- **[gs-spring-boot](https://github.com/seifv/gs-spring-boot)** — Building and releasing applications with Spring Boot using Azure DevOps.
-
-- **[azure-aks-kubernetes-masterclass](https://github.com/seifv/azure-aks-kubernetes-masterclass)** — Azure AKS Kubernetes deployment and management.
-
-- **[angular-app-kubernetes](https://github.com/seifv/angular-app-kubernetes)** — Dockerized Angular app deployed on Kubernetes using AKS.
-
----
-
 ## Let's Connect
 
 **LinkedIn:** [linkedin.com/in/seifeddine-lamrimed](https://www.linkedin.com/in/seifeddine-lamrimed)  
