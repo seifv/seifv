@@ -34,6 +34,7 @@ Monitoring setup, alerting, runbooks, and knowledge transfer so teams are prepar
 - Azure DevOps Engineer Expert
 - Azure Administrator Associate
 - Certified Terraform Associate
+- Amazon Web Services Cloud Practitioner
 - Google Cloud Digital Leader
 - Azure Fundamentals
 
