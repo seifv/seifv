@@ -53,6 +53,6 @@ Monitoring setup, alerting, runbooks, and knowledge transfer so teams are prepar
 
 ## Let's Connect
 
-**LinkedIn:** [linkedin.com/in/seifeddine-lamrimed](https://www.linkedin.com/in/seifeddine-lamrimed)  
+**LinkedIn:** [linkedin.com/in/seifv](https://www.linkedin.com/in/seifv)  
 
 Looking for collaboration on cloud infrastructure, DevOps automation, and infrastructure as code projects.
