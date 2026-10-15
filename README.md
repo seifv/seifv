@@ -3,13 +3,13 @@
 ## What I Work On
 
 **Cloud Infrastructure**
-Provisioning and managing AWS and Azure environments using Terraform. Version-controlled, reproducible infrastructure built to scale without becoming a maintenance burden.
+Provisioning and managing AWS, Azure and GCP environments
 
 **CI/CD and Deployment Automation**
-Automated pipelines that eliminate manual deployments and reduce operational risk. I build reusable modules and shared libraries your team can maintain long-term.
+Automated pipelines that eliminate manual deployments and reduce operational risk.
 
 **Container Platforms**
-Docker and Kubernetes workloads designed for production. High availability, scalability, and reliability built in from the start.
+Kuberenetes clusters designed for production. High availability, scalability, and reliability built in from the start.
 
 **Security and Compliance**
 IAM policies, network security, secrets management, and security best practices across cloud environments.
