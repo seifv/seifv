@@ -1,11 +1,5 @@
 # Hi, I'm Seifeddine Lamrimed
 
-**Cloud & DevSecOps Engineer** | AWS · Azure · Terraform · Kubernetes · CI/CD
-
-I help teams build and manage cloud infrastructure that scales reliably. My focus is on infrastructure as code, automated deployments, container platforms, and operational readiness. Every project ends with proper documentation and knowledge transfer so your team can operate independently.
-
----
-
 ## What I Work On
 
 **Cloud Infrastructure**
@@ -25,18 +19,6 @@ Full visibility into cloud spend and practical strategies to reduce waste withou
 
 **Operational Readiness**
 Monitoring setup, alerting, runbooks, and knowledge transfer so teams are prepared well before go-live.
-
----
-
-## Certifications
-
-- AWS Solutions Architect Associate
-- Azure DevOps Engineer Expert
-- Azure Administrator Associate
-- Certified Terraform Associate
-- Amazon Web Services Cloud Practitioner
-- Google Cloud Digital Leader
-- Azure Fundamentals
 
 ---
 
