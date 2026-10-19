@@ -22,17 +22,6 @@ Monitoring setup, alerting, runbooks, and knowledge transfer so teams are prepar
 
 ---
 
-## Tech Stack
-
-**Cloud Platforms:** AWS, Azure, GCP  
-**Infrastructure as Code:** Terraform, Ansible  
-**Containers:** Docker, Kubernetes (EKS, AKS)  
-**CI/CD:** GitHub Actions, Azure DevOps, GitLab CI  
-**Languages:** Bash, Python, PowerShell  
-**Monitoring:** Prometheus, Grafana, Datadog
-
----
-
 ## Let's Connect
 
 **LinkedIn:** [linkedin.com/in/seifv](https://www.linkedin.com/in/seifv)  
